@@ -1,4 +1,4 @@
-<h3> prime_prestudy_01 </h3>
+<h3>prime_prestudy_01</h3>
 
 For this assignment, you will need to create an HTML / CSS / and Javascript files. The HTML only need to have a header that reads "Function Challenge" with just a little styling in the CSS. Then, create a function in the Javascript that console logs out "Hey this works!". Then you will need to check in the project into a personal GitHub repo (Note: NOT GitHub pages). Make sure to name the Repo "prime_prestudy_01".
 
